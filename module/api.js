@@ -1,4 +1,4 @@
-const USER_PER_PAGE = 20;
+const USER_PER_PAGE = 100;
 const URL = 'https://api.github.com/';
 
 export class API {
